@@ -4,16 +4,13 @@ Tableau de bord Power BI sur le chômage au Maroc, construit à partir des donn�
 
 ![Aperçu du tableau de bord]
 ### 1. Vue d'ensemble et macro-conjoncture
-![Vue d'ensemble](screenshots/01-vue-ensemble.png)
+![Vue d'ensemble](screenshots/screenshots01-vue-ensemble.png)
 
 ### 2. Dynamique territoriale et géographique
-![Dynamique territoriale](screenshots/02-dynamique-territoriale.png)
+![Dynamique territoriale](screenshots/screenshots02-dynamique-territoriale.png)
 
 ### 3. Analyse démographique et sociale
-![Analyse démographique](screenshots/03-analyse-demographique.png)
-
-### 4. Analyse sectorielle
-![Analyse sectorielle](screenshots/04-analyse-sectorielle.png)
+![Analyse démographique](screenshots/screenshots03-analyse-demographique.png)
 
 ## Objectifs
 
